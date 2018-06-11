@@ -1,6 +1,6 @@
-#! /usr/bin/python3.5
 
 '''
+
 Simple Episode Tracker in Python from free online tv show site Fmovies
 
 '''
